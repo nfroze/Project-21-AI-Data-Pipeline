@@ -15,3 +15,5 @@ Azure Blob Storage • Python • SQLite • MCP • Claude AI • Pandas
 
 
 ## Documents
+
+[Interactive Report](https://nfroze.github.io/Project-21-AI-Data-Pipeline/report.html)
